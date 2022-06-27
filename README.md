@@ -1,2 +1,3 @@
 # redux-toolkit-query
-Created with CodeSandbox
+
+This repository contains the redux-toolkit query example
